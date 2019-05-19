@@ -6,10 +6,10 @@
    
                                     Steps to execute the application
                                     
-   (1) git clone the link: 
-
-
-
+   (1) git clone the link: https://github.com/trshinde/beach-resort-react.git into your local folder.
+   (2) cd beach-resort-react
+   (3) npm start to run in localhost 3000.(http://localhost:3000/)
+  
 
 
 
