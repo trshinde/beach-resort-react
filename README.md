@@ -1,3 +1,20 @@
+
+                                    Beach Resort Application using ReactJS
+                                    
+   (1) Implemented a beach resort front-end web application with API React Context, Consumer and Provider for functional and class based components with dynamic features like DOM event onHandler using react-router-dom, UI boostrapping, HTML5, CSS3, React.
+   (2) User had the luxury to choose the rooms as per different criteria like: types of rooms (single, economy, family, deluxe,luxury,presidential), capacity, size, breakfast, pets. 
+   
+                                    Steps to execute the application
+                                    
+   (1) git clone the link: 
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
